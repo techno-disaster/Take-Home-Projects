@@ -1,0 +1,3 @@
+[submodule "tatsam"]
+	path = tatsam
+	url = https://github.com/Techno-Disaster/tatsam
