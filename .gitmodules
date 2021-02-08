@@ -1,3 +1,6 @@
 [submodule "tatsam"]
 	path = tatsam
 	url = https://github.com/Techno-Disaster/tatsam
+[submodule "posts"]
+	path = posts
+	url = https://github.com/Techno-Disaster/posts
